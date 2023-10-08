@@ -42,3 +42,7 @@ Paint Clone is designed to work in modern web browsers that support HTML5 and Ja
 This project utilizes the jscolor library for color input.
 
 Enjoy drawing and creating with Paint Clone! If you have any questions or feedback, please feel free to open an issue or contribute to the project.
+
+# Preview
+
+![image](https://github.com/dimicodes/Painter-App/assets/45632694/2d2c8e3b-ed78-4cbb-b7b7-e59f0f591e18)
